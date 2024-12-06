@@ -30,13 +30,15 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:
-          ![input](https://github.com/user-attachments/assets/d00ddcf0-f8e2-4def-9337-43faa5959f99)
+## Input: ![input](https://github.com/user-attachments/assets/e6619feb-5751-4a50-a632-5744b6c25564)
+
+          
 
 
 
-### Output:
-            ![output](https://github.com/user-attachments/assets/1e11e284-4479-4207-9932-4f1461234d31)
+### Output: ![output](https://github.com/user-attachments/assets/89cc7bd3-d2fa-43de-afdb-0707b5e99858)
+
+            
 
 ### Name:Anushmalika R
 ### Register Number:24900881
