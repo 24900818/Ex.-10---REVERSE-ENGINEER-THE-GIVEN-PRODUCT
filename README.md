@@ -30,12 +30,13 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:![WhatsApp Image 2024-12-06 at 13 34 29_a1d52ae2](https://github.com/user-attachments/assets/0a578664-85bc-417a-8124-7c6c281541ac)
+## Input:
+          ![input](https://github.com/user-attachments/assets/d00ddcf0-f8e2-4def-9337-43faa5959f99)
 
 
-### Output:![WhatsApp Image 2024-12-06 at 13 34 42_e1a2a32f](https://github.com/user-attachments/assets/e65a6785-77a6-4d7e-a2bb-52fd7e50d3d0)
 
-
+### Output:
+            ![output](https://github.com/user-attachments/assets/1e11e284-4479-4207-9932-4f1461234d31)
 
 ### Name:Anushmalika R
 ### Register Number:24900881
